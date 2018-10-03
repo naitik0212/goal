@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6107d161-4c52-486b-b150-80a18347ca0d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/images/bride.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bride.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img_bg_1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/img_bg_1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/groom.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="434" column="64" lean-forward="true" selection-start-line="434" selection-start-column="64" selection-end-line="434" selection-end-column="64" />
+            <state relative-caret-position="60">
+              <caret line="113" column="31" lean-forward="true" selection-start-line="113" selection-start-column="31" selection-end-line="113" selection-end-column="31" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -30,6 +30,11 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="groom.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/groom.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="loader.gif" pinned="false" current-in-tab="false">
@@ -67,26 +72,10 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="img_bg_5.JPG" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/img_bg_5.JPG">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>simply-amount</find>
-      <find>enableutc</find>
       <find>enableUTC</find>
       <find>date</find>
       <find>sept</find>
@@ -115,6 +104,8 @@
       <find>js-fh5co-nav-toggle fh5co-nav-toggle fh5co-nav-white</find>
       <find>img_bg_</find>
       <find>fri</find>
+      <find>first date</find>
+      <find>groop</find>
     </findStrings>
     <replaceStrings>
       <replace>Siddharth Mehta</replace>
@@ -197,10 +188,10 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
@@ -229,11 +220,12 @@
       <workItem from="1531701924288" duration="1670000" />
       <workItem from="1531799623987" duration="7735000" />
       <workItem from="1535050301679" duration="2259000" />
+      <workItem from="1538545674267" duration="930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11725000" />
+    <option name="totallyTimeSpent" value="12655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -265,9 +257,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/owl.carousel.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/owl.theme.default.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -303,9 +292,6 @@
           <caret line="190" column="76" lean-forward="true" selection-start-line="190" selection-start-column="76" selection-end-line="190" selection-end-column="76" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/groom.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/bride.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -504,10 +490,16 @@
     <entry file="file://$PROJECT_DIR$/images/img_bg_3.JPG">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/groom.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/groom.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="434" column="64" lean-forward="true" selection-start-line="434" selection-start-column="64" selection-end-line="434" selection-end-column="64" />
+        <state relative-caret-position="60">
+          <caret line="113" column="31" lean-forward="true" selection-start-line="113" selection-start-column="31" selection-end-line="113" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
