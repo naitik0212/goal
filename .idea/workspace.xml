@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6107d161-4c52-486b-b150-80a18347ca0d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/images/DSC04527.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/DSC04730.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/DSC04829.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/DSC04915.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/DSC05973.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/DSC06082.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_20180408_174748.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_20180630_114307.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bride1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/groom1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -30,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1248">
-              <caret line="398" column="14" lean-forward="true" selection-start-line="398" selection-start-column="14" selection-end-line="398" selection-end-column="14" />
+            <state relative-caret-position="389">
+              <caret line="144" column="10" lean-forward="true" selection-start-line="144" selection-start-column="10" selection-end-line="144" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -112,7 +101,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>sept</find>
       <find>21</find>
       <find>conso</find>
       <find>simply-countdown-inline</find>
@@ -142,6 +130,7 @@
       <find>groop</find>
       <find>our</find>
       <find>click</find>
+      <find>bride</find>
     </findStrings>
     <replaceStrings>
       <replace>Siddharth Mehta</replace>
@@ -259,18 +248,18 @@
       <workItem from="1535050301679" duration="2259000" />
       <workItem from="1538545674267" duration="1027000" />
       <workItem from="1538668970098" duration="1186000" />
-      <workItem from="1538673621433" duration="1195000" />
+      <workItem from="1538673621433" duration="1536000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15133000" />
+    <option name="totallyTimeSpent" value="15474000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -278,7 +267,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29023385" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28969696" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -510,8 +499,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="398" column="14" lean-forward="true" selection-start-line="398" selection-start-column="14" selection-end-line="398" selection-end-column="14" />
+        <state relative-caret-position="389">
+          <caret line="144" column="10" lean-forward="true" selection-start-line="144" selection-start-column="10" selection-end-line="144" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
