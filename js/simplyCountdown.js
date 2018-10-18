@@ -191,10 +191,10 @@
                     nowUtc = new Date(now.getFullYear(), now.getMonth(), now.getDate(),
                         now.getHours(), now.getMinutes(), now.getSeconds());
                     targetDate = new Date(
-                        2018,
-                        11,
+                        2019,
+                        3,
+                        4,
                         9,
-                        15,
                         0,
                         0
                     );
