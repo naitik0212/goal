@@ -5,7 +5,7 @@
  * License : MIT
  * Version : 1.3.2
  * Author : Vincent Loy <vincent.loy1@gmail.com>
- * Contributors : 
+ * Contributors :
  *  - Justin Beasley <JustinB@harvest.org>
  *  - Nathan Smith <NathanS@harvest.org>
  */
@@ -192,7 +192,7 @@
                         now.getHours(), now.getMinutes(), now.getSeconds());
                     targetDate = new Date(
                         2019,
-                        3,
+                        4,
                         4,
                         9,
                         0,

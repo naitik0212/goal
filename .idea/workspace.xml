@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6107d161-4c52-486b-b150-80a18347ca0d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/images/Goal.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/DSC04527.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/DSC04730.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/DSC04829.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/DSC04915.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/DSC05973.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/DSC06082.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20180408_174748.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20180630_114307.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bride.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bride1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/couple-1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/couple-2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/couple-3.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/groom.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/groom1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img_bg_1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img_bg_2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img_bg_3.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img_bg_4.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img_bg_5.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/loc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/simplyCountdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/simplyCountdown.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,12 +16,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="52" column="98" lean-forward="true" selection-start-line="52" selection-start-column="98" selection-end-line="52" selection-end-column="98" />
+            <state relative-caret-position="465">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
+                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -54,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="simplyCountdown.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="simplyCountdown.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/simplyCountdown.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="303" lean-forward="true" selection-start-line="303" selection-end-line="303" />
+            <state relative-caret-position="4395">
+              <caret line="303" selection-start-line="303" selection-end-line="303" />
             </state>
           </provider>
         </entry>
@@ -67,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="36" lean-forward="true" selection-start-column="36" selection-end-column="36" />
+              <caret column="36" selection-start-column="36" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -141,7 +117,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="36" />
     <option name="y" value="23" />
     <option name="width" value="551" />
@@ -221,12 +197,13 @@
       <workItem from="1538668970098" duration="1186000" />
       <workItem from="1538673621433" duration="1554000" />
       <workItem from="1538713931322" duration="580000" />
-      <workItem from="1539830826695" duration="135000" />
+      <workItem from="1539830826695" duration="207000" />
+      <workItem from="1553194874080" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18291000" />
+    <option name="totallyTimeSpent" value="18403000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -239,7 +216,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23255815" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -362,106 +338,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/groom.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/groom.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/groom.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/groom.jpg" />
     <entry file="file://$PROJECT_DIR$/images/gallery-2.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/DSC04730.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/DSC05973.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/IMG_20180408_174748.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/IMG_20180630_114307.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/DSC04730.JPG" />
+    <entry file="file://$PROJECT_DIR$/images/DSC05973.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/IMG_20180408_174748.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/IMG_20180630_114307.jpg" />
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/bride.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bride.jpg" />
     <entry file="file://$PROJECT_DIR$/images/gallery-1.jpg" />
     <entry file="file://$PROJECT_DIR$/images/gallery-3.jpg" />
     <entry file="file://$PROJECT_DIR$/gallery.html" />
     <entry file="file://$PROJECT_DIR$/contact.html" />
     <entry file="file://$PROJECT_DIR$/about.html" />
-    <entry file="file://$PROJECT_DIR$/images/DSC04527.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/img_bg_1.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/img_bg_4.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/loader.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/groom1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/DSC04915.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/DSC04829.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/bride1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/couple-2.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/img_bg_5.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/loc.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/DSC06082.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/img_bg_3.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/couple-1.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/couple-3.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/img_bg_2.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/DSC04527.JPG" />
+    <entry file="file://$PROJECT_DIR$/images/img_bg_1.JPG" />
+    <entry file="file://$PROJECT_DIR$/images/img_bg_4.JPG" />
+    <entry file="file://$PROJECT_DIR$/images/loader.gif" />
+    <entry file="file://$PROJECT_DIR$/images/groom1.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/DSC04915.JPG" />
+    <entry file="file://$PROJECT_DIR$/images/DSC04829.JPG" />
+    <entry file="file://$PROJECT_DIR$/images/bride1.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/couple-2.JPG" />
+    <entry file="file://$PROJECT_DIR$/images/img_bg_5.JPG" />
+    <entry file="file://$PROJECT_DIR$/images/loc.png" />
+    <entry file="file://$PROJECT_DIR$/images/DSC06082.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/img_bg_3.JPG" />
+    <entry file="file://$PROJECT_DIR$/images/couple-1.JPG" />
+    <entry file="file://$PROJECT_DIR$/images/couple-3.JPG" />
+    <entry file="file://$PROJECT_DIR$/images/img_bg_2.JPG" />
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="36" lean-forward="true" selection-start-column="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="52" column="98" lean-forward="true" selection-start-line="52" selection-start-column="98" selection-end-line="52" selection-end-column="98" />
-          <folding>
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/simplyCountdown.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="303" lean-forward="true" selection-start-line="303" selection-end-line="303" />
+        <state relative-caret-position="4395">
+          <caret line="303" selection-start-line="303" selection-end-line="303" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
