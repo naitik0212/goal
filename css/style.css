@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *
 * ======================================================= */
 body {
@@ -309,7 +309,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 0;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.3);
 }
 .fh5co-cover > .fh5co-container {
   position: relative;
@@ -385,7 +385,8 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(0, 0, 0, 0.6);
+
 }
 @media screen and (max-width: 768px) {
   #fh5co-counter,
@@ -545,7 +546,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 16px;
   left: 50%;
   margin-left: -80px;
-  background-color: #999999;
+  background-color: black;
   z-index: 100;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -768,7 +769,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #F14E95;
+  color: #753cf1;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -787,7 +788,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .fh5co-contact-info ul li:before {
-  color: #F14E95;
+  color: #8366f1;
   position: absolute;
   left: 0;
   top: .05em;
@@ -879,7 +880,7 @@ form label {
 .fh5co-cover .display-tc .btn {
   padding: 15px 20px;
   background: #fff !important;
-  color: #F14E95;
+  color: #8170f1;
   border: none !important;
   font-size: 14px;
   text-transform: uppercase;
@@ -942,7 +943,7 @@ form label {
   display: inline-block;
   width: 100px;
   height: 100px;
-  background: rgba(241, 78, 149, 0.8);
+  background: rgba(137, 48, 241, 0.8);
   margin: 0 4px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
