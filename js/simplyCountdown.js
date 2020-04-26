@@ -191,9 +191,9 @@
                     nowUtc = new Date(now.getFullYear(), now.getMonth(), now.getDate(),
                         now.getHours(), now.getMinutes(), now.getSeconds());
                     targetDate = new Date(
-                        2019,
-                        4,
-                        4,
+                        2020,
+                        12,
+                        2,
                         9,
                         0,
                         0
