@@ -193,7 +193,7 @@
                     targetDate = new Date(
                         2022,
                         12,
-                        02,
+                        2,
                         0,
                         0,
                         0
