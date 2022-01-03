@@ -191,9 +191,9 @@
                     nowUtc = new Date(now.getFullYear(), now.getMonth(), now.getDate(),
                         now.getHours(), now.getMinutes(), now.getSeconds());
                     targetDate = new Date(
-                        2021,
+                        2022,
                         12,
-                        2,
+                        31,
                         0,
                         0,
                         0
